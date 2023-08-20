@@ -1,0 +1,30 @@
+.error_text {
+  text-align: center;
+  color: #80d2c8;
+  margin: 60px 0;
+}
+
+.user_card {
+  background: #17191a;
+  padding: 20px;
+  margin: 20px;
+  border: 2px solid #dedede;
+  display: flex;
+  gap: 40px;
+  border-radius: 6px;
+  width: fit-content;
+}
+
+.user_img {
+  border-radius: 50%;
+}
+
+.user_details {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+}
+
+.user_link {
+  color: #80d2c8;
+}
